@@ -1,0 +1,6 @@
+Name,Email,Department,Manager,Software
+John,john@abc.com,Marketing,Stephanie,"MS Office, Salesforce"
+Amy,amy@abc.com,Marketing,Stephanie,"MS Office, Salesforce"
+Sidra,sidra@abc.com,Finance,Roger,"MS Office, Oracle"
+Naveen,naveen@abc.com,Data,Matthias,"AWS, MS Office, Python"
+Delilah,delilah@abc.com,Technology,Matthias,"AWS, MS Office, Oracle, Python, Salesforce"
