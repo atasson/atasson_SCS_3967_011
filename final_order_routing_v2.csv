@@ -1,0 +1,15 @@
+brand,account_manager,order_date,customer_id,name,email,product_id,next_action,delivery_date,delivery_route
+ABC,Johnny,2022-01-01,1001,John Adams,john@email.com,12,Call Customer,2022-01-03,Personalized Delivery
+ABC,Johnny,2022-01-04,1002,Jorden Haas,jorden@email.com,14,Call Customer,2022-01-06,Personalized Delivery
+ABC,Johnny,2022-01-05,1003,Pierce Glover,pierce@email.com,12,Call Customer,2022-01-07,Personalized Delivery
+ABC,Johnny,2022-01-06,1001,John Adams,john@email.com,14,Call Customer,2022-01-10,Personalized Delivery
+ABC,Johnny,2022-01-07,1002,Jorden Haas,jorden@email.com,14,Call Customer,2022-01-11,Personalized Delivery
+ABC,Johnny,2022-01-09,1004,Carly Copeland,carly@email.com,12,Call Customer,2022-01-10,Personalized Delivery
+ABC,Johnny,2022-01-10,1002,Jorden Haas,jorden@email.com,12,Call Customer,2022-01-12,Personalized Delivery
+ABC,Johnny,2022-01-13,1003,Pierce Glover,pierce@email.com,12,Call Customer,2022-01-17,Personalized Delivery
+Brand2,Timmy,2022-01-02,1002,Jorden Haas,jorden@email.com,13,Ship Directly with Purolator,2022-01-03,Purolator_123
+Brand2,Timmy,2022-01-03,1001,John Adams,john@email.com,13,Ship Directly with Purolator,2022-01-05,Purolator_123
+Brand2,Timmy,2022-01-08,1003,Pierce Glover,pierce@email.com,13,Ship Directly with Purolator,2022-01-10,Purolator_123
+Brand2,Timmy,2022-01-11,1003,Pierce Glover,pierce@email.com,13,Ship Directly with Purolator,2022-01-13,Purolator_123
+DT,Sammy,2022-01-12,1004,Carly Copeland,,15,Ship Directly with FedEx,2022-01-14,FedEx_Express
+DT,Sammy,2022-01-14,1004,Carly Copeland,,15,Ship Directly with FedEx,2022-01-18,FedEx_Express
